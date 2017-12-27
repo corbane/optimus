@@ -1,3 +1,5 @@
+/// <reference path="typings/dhtmlx.d.ts" />
+
 type ICallable = (...args: any[]) => any;
 type dhmlXComponent = any;
 type IViewCell = dhtmlXCell | HTMLCell | dhtmlXLayoutObject;
